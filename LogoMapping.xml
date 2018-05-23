@@ -1,0 +1,3171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="12TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>12TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="24 Horas">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="24h">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Canal 24 Horas">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>24 Horas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="25 TV">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>25 TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3/24">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>324.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="33">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>33.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="7 Television Region de Murcia HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>7 Television Region de Murcia HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="7 Television Region de Murcia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>7 Television Region de Murcia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="8 Madrid TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>8 Madrid TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="8TV">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>8TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A Punt HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>A Punt HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A Punt">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>A Punt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera Channel">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Al Jazeera Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera English">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Al Jazeera English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Al Jazeera English HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Al Jazeera English HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Alacanti TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Alacanti TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Alq XXHard">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Alquiler 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler 2 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler X">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler XX">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Alquiler XY">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Alquiler.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AMC HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AMC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AMC">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AMC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Andalucia TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Andalucia TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animax">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Animax.png</File>
+		</Channel>
+		<Channel>>
+			<Item Name="Antena 3 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Antena3 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Antena3 HD">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Antena3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antena 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Antena3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Antena3">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Antena3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aragon TV HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Aragon TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aragon TV Internacional">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Aragon TV Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aragon TV">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Aragon TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arirang">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Arirang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Atreseries HD">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Atreseries HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Atreseries">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Atreseries.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AXN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN White HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AXN White HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN White">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AXN White.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AXN">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>AXN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Baby TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="BabyTV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>BabyTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Barça TV">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Barca TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World News Europe HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="BBC World News HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>BBC World News HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Be Mad">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Be Mad TV HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="BeMad TV HD">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Be Mad TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Be Mad TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Be Mad TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports LaLiga 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein LaLiga 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein LaLiga 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein LaLiga 7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein LaLiga 8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Max 8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports Max 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports Max 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Betevé">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Beteve.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Biosfera TV">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Biosfera TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blaze">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Blaze.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bloomberg Europe TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bloomberg Television">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bloomberg Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boing">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Boing.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bom">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bom.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Boomerang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Botopro">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Botopro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Buenacompra">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Buenacompra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Business TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Business TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Calle 13 HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Calle 13 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Calle 13">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Calle 13.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 1 TV Mar Menor">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal 1 TV Mar Menor.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 8 Murcia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal 8 Murcia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 13 Digital">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Canal 13 RTV">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Canal 13 TV">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Canal 13 Digital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Cocina HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Cocina HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Cocina">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Cocina.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Extremadura Sat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Extremadura Sat">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Canal Extremadura Sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Extremadura">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Extremadura.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Galeria">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Galeria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Hollywood HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="HollywoodHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Canal Hollywood HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Hollywood">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Hollywood">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Canal Hollywood.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Orbe 21">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Canal Orbe21">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Canal Orbe 21.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Panda">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Panda.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur A.">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Canal Sur Andalucia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur Andalucia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Terrassa">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Canal Terrassa Vallès">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="TV20 Terrassa">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Canal Terrassa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canalcosta">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canalcosta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cartoon Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Castilla la Mancha TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Castilla la Mancha TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Caza y Pesca">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="CazayPesca HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Caza y Pesca.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="#0">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="#0 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Cero">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cero.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN Documentary">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CGTN Documentary.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="CGTN Espanol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CGTN Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN F">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="CGTN Francais">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CGTN Francais.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Clan HD">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Clan HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Clan">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Clan TVE">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Clan.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="CNBC Europe">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNC World">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CNC World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN Int.">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="CNN International">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CNN International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="ComedyCentralHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Comedy Central HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Comedy Central.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cordoba TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Córdoba Internacional TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cordoba Internacional TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cosmo HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cosmo HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cosmo">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cosmo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Crimen e Investigacion">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Crimen+Inves">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Crimen e Investigacion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cuatro HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cuatro HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cuatro">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Cuatro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cubavision Internacional">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Cubavision Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CyL7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CyL7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CyLTV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>CyLTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dark">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Dark.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Decasa HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Decasa HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Decasa">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Decasa">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Decasa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dejate de Historias TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Dejate de Historias TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Channel HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Discovery Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Discovery Channel">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Discovery Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Ch HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Disney Channel HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Disney Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Ch.">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Disney Channel">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Disney Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Junior HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Disney Junior HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Jr">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Disney Junior">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Disney Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Disney XD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Divinity">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Divinity.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DKiss">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>DKiss.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>DMAX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DMAX">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>DMAX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsche Welle">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="DW (English)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Deutsche Welle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EHS TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>EHS TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="El Garage TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>El Garage TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="El Punt Avui">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>El Punt Avui.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Energy">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Energy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Enjoy">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Enjoy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESNE TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ESNE TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Esport 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Esport3">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Esport 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB Sat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB Sat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB1 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB2 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ETB4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>ETB4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Euronews">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Euronews.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport1HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Eurosport 1 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Eurosport 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 1">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Eurosport 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Eurosport 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eurosport 2">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Eurosport 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EWTN">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>EWTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Extreme Sports">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Extreme Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Factoria de Ficcion">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="FDF">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Factoria de Ficcion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fama A Bailar">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="M. Fama 24H">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Fama A Bailar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fox HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Life HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fox Life HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Life">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fox Life.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox News">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fox News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fox.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - Arabic">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="France 24 (in Arabic)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>France 24 - Arabic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - English">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="France 24 (in English)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>France 24 - English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - Espanol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>France 24 - Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - Français">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="France 24 (en Français)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>France 24 - Francais.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Futbol Replay">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Futbol Replay.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="God TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>God TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gol">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Gol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GTM">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>GTM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hamaika Telebista">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Hamaika Telebista.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Historia HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Historia HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Historia">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Historia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hit TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Hit TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Huelva TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Huelva TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="I24 News English">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>I24 News English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="I24 Francis">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="I24 News French">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>I24 News French.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IB3 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>IB3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IB3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="IB3 Global">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>IB3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Iberalia TV">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Iberalia TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Insight TV UHD Spain">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Insight UHD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Insight UHD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Intercomarcal TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Intercomarcal TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Intereconomia TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Intereconomia TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 1 HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>La 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 1">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>La 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 2 HD">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>La 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 2">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>La 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 8 CyL">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La 8 CyL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Ocho Mediterraneo">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La Ocho Mediterraneo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Opinion TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La Opinion TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Otra">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La Otra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Tienda en Casa">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="LTC">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>La Tienda en Casa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Xarxa">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La Xarxa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV Multi 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga TV Multi 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV Multi 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga TV Multi 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV Multi 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga TV Multi 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV Multi 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga TV Multi 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV Multi 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga TV Multi 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="LaLigaTV Bar">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="LaLigaTVBar1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lancelot Television">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="LancelotTV">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Lancelot Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Las Estrellas">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Las Estrellas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Sexta HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="LaSexta HD">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>LaSexta HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Sexta">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="LaSexta">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>LaSexta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="L'Hospitalet TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LHospitalet TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Libertad Digital">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Libertad Digital.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lux Mallorca">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Lux Mallorca.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mega">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Mega.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mezzo Live HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Mezzo Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mezzo">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Mezzo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MGM Channel">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>MGM Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mirame TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Mirame TV LZ">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Mirame TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mola TV">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Mola TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Acción">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Acción HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Accion">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Accion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Cine Español">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Cine Espanol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Cine Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Comedia">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.Comedia HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Comedia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Comedia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. DCine">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. DCine HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar DCine">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar DCine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Dep 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Dep 1 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Dep 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Dep 2 HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Disney Pixar">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Disney Pixar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Disney Princess">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Disney Princess.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Disney">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Disney">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Disney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. eSports">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar eSports">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar eSports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Estrenos">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.EstrenosHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Estrenos">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Estrenos.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.Formula1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.Formula1HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Formula 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Formula 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Fútbol">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Fútbol HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Fútbol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Futbol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Golf">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Golf HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Golf">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Golf.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar James Bond">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar James Bond.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. MotoGP">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.MotoGPHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar MotoGP">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar MotoGP.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Multicine">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Multicine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Multideporte">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Multideporte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Multifutbol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Multifutbol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Oscars">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Oscars.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Partidazo 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Partidazo 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.Partidazo">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.PartidazoHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Partidazo">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Partidazo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bajo Demanda">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bar+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Contrato">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Guía">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Guía Fácil">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Plus">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Portada">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Radios">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Movistar Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. SeriesXtra">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. SeriesXtraHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Series Xtra">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Series Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Series">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Series HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Series">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Series.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movistar Star Wars">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Star Wars.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Xtra">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Xtra HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Xtra">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Live HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>MTV Live HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Rocks">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>MTV Rocks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="MTV España">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multidep.1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multideporte 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multidep.2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multideporte 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multidep.3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multideporte 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multidep.4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multideporte 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multidep.5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multideporte 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multideporte 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multideporte">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifut. 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multifutbol 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifut. 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multifutbol 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifut. 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multifutbol 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifut. 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Multifutbol 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol 9">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multifutbol">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multifutbol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name=">Multi-X">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name=">Multi-X(1)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name=">Multi-X (2)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name=">Multi-X (3)">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Multi-X.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Wild HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="NG Wild HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Nat Geo Wild HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Wild">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Nat Geo Wild.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="National Geographic HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>National Geographic HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geograph">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="National Geographic">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>National Geographic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Navarra Television 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Navarra Television 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Navarra Television">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Navarra Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Neox">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Neox.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHK World">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="NHK World TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>NHK World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Nick Jr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="NickelodeonHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Nickelodeon HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Nickelodeon Iberia">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Nickelodeon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nicktoons">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Nicktoons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Non Stop People">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Non Stop People.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nou 24">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Nou 24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nou">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Nou.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nova">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Nova.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Odisea HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Odisea HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Odisea">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Odisea">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Odisea.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Cadiz">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Onda Cadiz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Mezquita TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Onda Mezquita TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ondaluz">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Ondaluz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Paramount">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Paramount Channel">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Paramount Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Paramount Network">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Paramount Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Popular TV Cantabria">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Popular TV Cantabria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Popular TV La Rioja">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Popular TV La Rioja.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Popular TV Melilla">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Popular TV Melilla.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Popular TV Region de Murcia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Popular TV Region de Murcia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RAC105">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>RAC105.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RCN Nuestra Tele">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RCN Nuestra Tele.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Real Madrid TV HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="RealMadrid TV HD">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Real Madrid TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="R. Madrid TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Real Madrid TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Real Madrid TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Record TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TV Record SD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Record TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT Esp HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RT Español HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RT Espanol HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT Esp">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="RT Español">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RT Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT France HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RT France HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT France">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RT France.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RT HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Russia Today">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>RT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTV Ceuta">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RTV Ceuta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky News">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Sky News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sol Musica">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Sol Musica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Solidaria TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Solidaria TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Somos">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Somos.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classica">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Stingray Classica">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Stingray Classica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SundanceTV HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>SundanceTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sundance TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="SundanceTV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>SundanceTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super3/33">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Super3 33.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Super3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Super3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Syfy HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Syfy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBN España">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TBN Espana">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>TBN Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCM HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TCM HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCM">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TCM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telecinco HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Telecinco HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telecinco">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Telecinco.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TDP HD">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Teledeporte HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Teledeporte HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TDP">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Teledeporte">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Teledeporte.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telefe Internacional">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Telefe Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleMadrid HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TeleMadrid HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleMadrid">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TeleMadrid.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleSur HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TeleSur HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleSur">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TeleSur.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televisio de Badalona">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Televisio de Badalona.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television Canaria HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TVCanaria HD">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Television Canaria HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television Canaria">
+				<Provider>Full Name (ES)</Provider>
+			</Item>>
+			<Item Name="TV Canaria">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Television Canaria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television de Galicia 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Television de Galicia 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television de Galicia">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TVGA">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Television de Galicia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television Murciana">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Television Murciana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television Rioja">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Television Rioja.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ten">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Ten.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TG7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TG7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TNT HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TNT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toros HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Toros TV">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Toros TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPA7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TPA7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPA8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TPA8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPA9 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TPA9 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trece">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Trece.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRT World HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TRT World HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Chile">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TV Chile.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Melilla">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TV Melilla.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Sant Cugat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TV Sant Cugat-V1">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>TV Sant Cugat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TV3HD">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>TV3 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>TV3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV3Cat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TV3Cat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde Europe">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TV5Monde Europe.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Emision 4K Pruebas">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="TVE 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>TVE 4K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVE Internacional">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TVE Internacional Europa">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>TVE Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V Television">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>V Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Valles Visio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Valles Visio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1 Classic">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>VH1 Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viajar HD">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Viajar HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viajar">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Viajar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VOTV">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>VOTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Xtrm HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Xtrm HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Xtrm">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Xtrm.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="Betevé">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Betevé 91.0">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Beteve.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Biosfera 10">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Biosfera 10.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cadena 100">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Cadena 100 Lanza">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cadena 100.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cadena Dial">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Dial">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cadena Dial.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cadena SER">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="SER">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cadena SER.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canarias Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Canarias Radio La Autonomica">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Canarias Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Catalunya Informacio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="CatInfo">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Catalunya Informacio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Catalunya Musica">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="CatMusic">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Catalunya Musica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Catalunya Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="CatRadio">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Catalunya Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cooltura FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="Radio Cooltura">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Cooltura FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cope">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cope.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cronicas Radio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Cronicas Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cugat.cat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Sant Cugat Música">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Cugat.cat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Digital Hits FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Digital Hits FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EsRadio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>EsRadio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Europa FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Europa FM Lanzar">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Europa FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hit FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Hit FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="iCat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="iCat.cat">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			<File>iCat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kiss FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Kiss FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lancelot Radio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Lancelot Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Los40">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Los40.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Melodia FM">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Melodia FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Monster Radio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Monster Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="O2 Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="O2 Radio 7.7">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>O2 Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Cero">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Onda Cero.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Madrid">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Onda Madrid.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Regional">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Onda Regional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RAC1">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>RAC1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RAC105">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>RAC105.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio3 HQ RNE">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="RNE Radio 3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Ràdio 4 RNE">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="RNE Radio 4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio 5 RNE">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="Radio 5 RNE Tenerife">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Radio 5 RNE Las Palmas">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="RNE Radio 5 Todo Noticias">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Caldes">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Radio Caldes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Ciutat de Badalona">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio Ciutat de Badalona.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Clasica">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio Clasica HQ RNE">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="RNE Radio Clasica">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Clasica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio ECCA">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Radio ECCA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Europa">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Radio Europa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Exterior de España">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio Exterior RNE">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="RNE Exterior de España">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Exterior de Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Granollers">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Radio Granollers.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Onda Insular Cab">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="R.Onda Insular">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Radio Insular">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio Insular.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="R Lanzarote">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Radio Lanzarote">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Radio Lanzarote.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio L'Hospitalet">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio LHospitalet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Marca">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Radio Marca.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Maria">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Radio Maria.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Mollet del Valles">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Radio Mollet del Valles.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ràdio Montornès">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Radio Montornes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Municipal ">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="Radio Municipal de Teguise">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio Municipal de Teguise.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Nacional de España">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="RNE Canarias">
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<Item Name="RNE Cataluña">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<Item Name="RNE Radio 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Nacional de Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Silenci">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>Radio Silenci.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rock FM">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Rock FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTV Ceuta">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>RTV Ceuta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Sant Cugat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="TVSantCugat.cat">
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+			</Item>
+			<File>TV Sant Cugat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vaughan Radio">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
+			</Item>
+			<File>Vaughan Radio.png</File>
+		</Channel>
+	</Radio>
+</Mappings>

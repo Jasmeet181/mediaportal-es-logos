@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg24" width="507.45" height="277.96" version="1.1" viewBox="0 0 507.45 277.96" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata28">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>logo-TPA</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+<!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+ <title id="title2">logo-TPA</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <path id="Rectangle-path" d="m0 0h297.19v277.96h-297.19z" fill="#fff" fill-rule="evenodd"/>
+ <g id="g878" transform="matrix(1.0432 0 0 1.0432 -413.08 325.39)" fill-rule="evenodd">
+  <path id="rect9-9" d="m428.34-281.63h168.34v48.446h-168.34z" fill="#0078bc"/>
+  <path id="rect11-2" d="m480.14-202.68h116.54v48.446h-116.54z" fill="#0078bc"/>
+  <path id="rect13-7" d="m480.14-124.18h116.54v48.446h-116.54z" fill="#0078bc"/>
+  <path id="rect15-6" d="m428.34-202.68h51.796v126.95h-51.796z" fill="#1d4287"/>
+  <path id="rect17-4" d="m596.68-281.63h51.796v205.89h-51.796z" fill="#1d4287"/>
+ </g>
+ <path id="rect862" d="m351.1 34.67v-34.669h157.75l-112.17 277.96h-39.918l97.903-243.09z" fill="#fff" style="paint-order:normal"/>
+</svg>
