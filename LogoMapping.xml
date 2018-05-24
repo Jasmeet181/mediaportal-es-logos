@@ -721,9 +721,6 @@
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CGTN">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="CGTN Espanol">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -737,6 +734,12 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>CGTN Francais.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Clan HD">
