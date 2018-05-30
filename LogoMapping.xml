@@ -74,13 +74,13 @@
 			<File>8TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A Punt HD">
+			<Item Name="À Punt HD">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>A Punt HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A Punt">
+			<Item Name="À Punt">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>A Punt.png</File>
@@ -728,6 +728,18 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Canal Panda.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Parlamento">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Parlamento.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur 1 HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur 1 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Canal Sur">
@@ -1542,6 +1554,12 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Iberalia TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Información TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Informacion TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Data Test A">
@@ -2699,6 +2717,12 @@
 			<File>RAC105.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Radio Television Vida">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio Television Vida.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nuestra Tele">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -2795,6 +2819,12 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>RTV Ceuta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SFC TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>SFC TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky News">
@@ -3317,6 +3347,18 @@
 			<File>Cadena SER.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal Fiesta Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Fiesta Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Sur Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Sur Radio.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canarias Radio">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -3411,6 +3453,12 @@
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
 			<File>Europa FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Flamenco Radio">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Flamenco Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hit FM">
@@ -3565,6 +3613,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Radio 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Andalucía Información">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Radio Andalucia Informacion.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Caldes">
