@@ -537,6 +537,12 @@
 			<File>Beteve.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Betis TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Betis TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Biosfera TV">
 				<Provider>Full Name (ES)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
