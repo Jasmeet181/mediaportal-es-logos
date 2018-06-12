@@ -405,15 +405,21 @@
 			<File>Bein Sports LaLiga Max 4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein LaLiga 5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 5.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bein La Liga">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Bein LaLiga">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein LaLiga 5">
-				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein LaLiga 6">
 				<Provider>Astra 19.2E</Provider>
@@ -2670,16 +2676,12 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Paramount Channel">
-				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
-				<Provider>TDT (Catalunya, Barcelona)</Provider>
-				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
-			<File>Paramount Channel.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Paramount Network">
 				<Provider>Full Name (ES)</Provider>
+				<Provider>TDT (Catalunya, Barcelona)</Provider>
+				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
 			<File>Paramount Network.png</File>
 		</Channel>
