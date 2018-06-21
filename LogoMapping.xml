@@ -414,21 +414,39 @@
 			<File>Bein Sports LaLiga Max 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein LaLiga 6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein LaLiga 8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga Max 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Bein Sports LaLiga Max 8.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bein La Liga">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Bein LaLiga">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein LaLiga 6">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein LaLiga 7">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein LaLiga 8">
-				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga">
 				<Provider>Full Name (ES)</Provider>
