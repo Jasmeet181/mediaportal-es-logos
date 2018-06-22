@@ -1491,6 +1491,13 @@
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Gol HD">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<File>Gol HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Gol">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Full Name (ES)</Provider>
@@ -2622,16 +2629,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Nicktoons.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Non Stop People">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Non Stop People HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Non Stop People.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nou 24">
