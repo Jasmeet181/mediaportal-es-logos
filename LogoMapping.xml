@@ -457,100 +457,6 @@
 			<File>Bein Sports LaLiga.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein Max 1">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Max 1 ">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Max 1 HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 1">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 2">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Max 2 HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 2">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 3">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 3">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 4">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 4">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 5">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 5">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 6">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 6">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 6.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 7">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 7">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 7.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Max 8">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Bein Sports Max 8">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports Max 8.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Sports">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Sports HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Bein Sports.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Beteve">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -2191,6 +2097,87 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar James Bond.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeon8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.LCampeons">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Liga de Campeones">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. MotoGP">
