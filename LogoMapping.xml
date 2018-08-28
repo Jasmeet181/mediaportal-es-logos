@@ -362,11 +362,13 @@
 		</Channel>
 		<Channel>
 			<Item Name="Bein LaLiga 1">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Bein LaLiga 1 HD">
 				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="BeinLaLiga1">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 1">
 				<Provider>Full Name (ES)</Provider>
@@ -375,11 +377,13 @@
 		</Channel>
 		<Channel>
 			<Item Name="Bein LaLiga 2">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Bein LaLiga 2 HD">
 				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="BeinLaLiga2">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 2">
 				<Provider>Full Name (ES)</Provider>
@@ -387,7 +391,7 @@
 			<File>Bein Sports LaLiga Max 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 3">
+			<Item Name="BeinLaLiga3">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 3">
@@ -396,7 +400,7 @@
 			<File>Bein Sports LaLiga Max 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 4">
+			<Item Name="BeinLaLiga4">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 4">
@@ -405,7 +409,7 @@
 			<File>Bein Sports LaLiga Max 4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 5">
+			<Item Name="BeinLaLiga5">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 5">
@@ -414,7 +418,7 @@
 			<File>Bein Sports LaLiga Max 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 6">
+			<Item Name="BeinLaLiga6">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 6">
@@ -423,7 +427,7 @@
 			<File>Bein Sports LaLiga Max 6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 7">
+			<Item Name="BeinLaLiga7">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 7">
@@ -432,7 +436,7 @@
 			<File>Bein Sports LaLiga Max 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga 8">
+			<Item Name="BeinLaLiga8">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Bein Sports LaLiga Max 8">
@@ -448,11 +452,11 @@
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Bein Sports LaLiga">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
 			<Item Name="Bein LaLiga HD">
 				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="Bein Sports LaLiga">
+				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Bein Sports LaLiga.png</File>
 		</Channel>
@@ -1667,37 +1671,46 @@
 			<File>La Xarxa.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LaLiga TV Multi 1">
+			<Item Name="LaLiga 123 TV Multi 1">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>LaLiga TV Multi 1.png</File>
+			<Item Name="LaLiga123TV1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga 123 TV Multi 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="LaLiga TV Multi 2">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>LaLiga TV Multi 2.png</File>
+			<Item Name="LaLiga123TV2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga 123 TV Multi 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LaLiga TV Multi 3">
+			<Item Name="LaLiga 123 TV Multi 3">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>LaLiga TV Multi 3.png</File>
+			<Item Name="LaLiga123TV3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga 123 TV Multi 3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LaLiga TV Multi 4">
+			<Item Name="LaLiga 123 TV Multi 4">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>LaLiga TV Multi 4.png</File>
+			<File>LaLiga 123 TV Multi 4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LaLiga TV Multi 5">
+			<Item Name="LaLiga 123 TV Multi 5">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>LaLiga TV Multi 5.png</File>
+			<File>LaLiga 123 TV Multi 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LaLiga TV">
+			<Item Name="LaLiga 123 TV">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar">
@@ -1730,13 +1743,16 @@
 			<Item Name="LaLiga TV Bar HD">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
+			<Item Name="LaLiga123TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="LaLigaTV Bar">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="LaLigaTVBar1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<File>LaLiga TV.png</File>
+			<File>LaLiga 123 TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Lancelot Television">
