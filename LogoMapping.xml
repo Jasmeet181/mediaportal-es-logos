@@ -1674,7 +1674,7 @@
 			<Item Name="LaLiga 123 TV Multi 1">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="LaLiga123TV1">
+			<Item Name="LaLiga123TVM1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>LaLiga 123 TV Multi 1.png</File>
@@ -1683,7 +1683,7 @@
 			<Item Name="LaLiga TV Multi 2">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="LaLiga123TV2">
+			<Item Name="LaLiga123TVM2">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>LaLiga 123 TV Multi 2.png</File>
@@ -1692,7 +1692,7 @@
 			<Item Name="LaLiga 123 TV Multi 3">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="LaLiga123TV3">
+			<Item Name="LaLiga123TVM3">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>LaLiga 123 TV Multi 3.png</File>
@@ -1937,6 +1937,18 @@
 			<File>Movistar Cine Espanol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M.CineDoc&amp;Roll">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M.CineDoc&amp;Roll HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar CineDoc &amp; Roll">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar CineDoc and Roll.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M. Comedia">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
@@ -1951,20 +1963,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Comedia.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="M. DCine">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. DCine HD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Movistar DCine">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar DCine.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. Dep 1">
@@ -2022,6 +2020,18 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Disney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Drama">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="M. Drama HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Drama">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Drama.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. eSports">
@@ -2296,20 +2306,16 @@
 			<File>Movistar Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. Series Xtra HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. SeriesXtra">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. SeriesXtraHD">
+			<Item Name="M. Seriesmania">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Movistar Series Xtra">
+			<Item Name="M.Seriesmania HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Seriesmanía">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>Movistar Series Xtra.png</File>
+			<File>Movistar Seriesmania.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. Series">
@@ -2330,20 +2336,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Star Wars.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="M. Xtra">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. Xtra HD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Movistar Xtra">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Xtra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV Live HD">
@@ -3274,6 +3266,12 @@
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 			</Item>
 			<File>Valles Visio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vamos">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Vamos.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VH1 Classic">
