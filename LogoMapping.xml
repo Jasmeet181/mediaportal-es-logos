@@ -2647,6 +2647,13 @@
 			<File>Nova.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nuestra Tele">
+				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<File>Nuestra Tele.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Odisea HD">
 				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
@@ -2739,15 +2746,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Radio Television Vida.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Nuestra Tele">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="RCN Nuestra Tele">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>RCN Nuestra Tele.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Real Madrid TV HD">
