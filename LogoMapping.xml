@@ -1965,10 +1965,19 @@
 			<File>Movistar Comedia.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. Dep 1">
+			<Item Name="M. Deportes">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="M. Dep 1 HD">
+			<Item Name="M. DeportesHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="M. Deportes 1">
@@ -1983,10 +1992,7 @@
 			<File>Movistar Deportes 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. Dep 2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="M. Dep 2 HD">
+			<Item Name="M. Deportes2">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="M. Deportes 2">
@@ -1999,6 +2005,42 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Deportes 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 3">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes4">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 4">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 5">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 6.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Movistar Disney Pixar">
@@ -2360,73 +2402,6 @@
 			<File>MTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Multidep.1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multideporte 1">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multidep.2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multideporte 2">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multidep.3">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multideporte 3">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multidep.4">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multideporte 4">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multidep.5">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multideporte 5">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multideporte 6">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte 6.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multideporte">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<Item Name="Multideporte 7">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multideporte.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Multifut. 1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2435,6 +2410,13 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Multifutbol 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multideporte">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Multideporte.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Multifut. 2">
@@ -3266,6 +3248,12 @@
 			<File>Valles Visio.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="#Vamos">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="#VamosHD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Vamos">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
