@@ -1092,6 +1092,12 @@
 			<File>EHS TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="El Correo TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>El Correo TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="El Garage TV">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2041,6 +2047,15 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Deportes 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Deportes7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Movistar Disney Pixar">
