@@ -2120,6 +2120,12 @@
 			<File>Movistar Estrenos.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Movistar Formula 1 UHD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Formula 1 UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M. F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -2306,10 +2312,10 @@
 			<File>Movistar Oscars.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Movistar Partidazo 4K">
+			<Item Name="Movistar Partidazo UHD">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>Movistar Partidazo 4K.png</File>
+			<File>Movistar Partidazo UHD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. Partidazo">
