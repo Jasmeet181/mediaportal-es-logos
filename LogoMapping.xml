@@ -2182,6 +2182,12 @@
 			<File>Movistar Golf.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Movistar Halloween">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Halloween.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Movistar James Bond">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
