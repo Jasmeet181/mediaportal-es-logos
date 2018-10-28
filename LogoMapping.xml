@@ -2182,6 +2182,9 @@
 			<File>Movistar Golf.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Halloween">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Movistar Halloween">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
