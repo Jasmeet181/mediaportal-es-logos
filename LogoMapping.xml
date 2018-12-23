@@ -2315,6 +2315,15 @@
 			<File>Movistar Multifutbol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M.NavidadDisney">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Navidad Disney">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Navidad Disney.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Movistar Oscars">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
