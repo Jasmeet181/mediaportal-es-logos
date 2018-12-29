@@ -2091,19 +2091,6 @@
 			<File>Movistar Drama.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. eSports">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. eSports HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Movistar eSports">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar eSports.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="M. Estrenos">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
