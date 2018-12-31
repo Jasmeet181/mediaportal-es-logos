@@ -60,6 +60,12 @@
 			<File>7 Television Region de Murcia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="7TV Andalucía">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>7TV Andalucia.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="8 Madrid TV">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -114,6 +120,12 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Alacanti TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="All Flamenco 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>All Flamenco 4K.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Alq XXHard">
@@ -175,7 +187,7 @@
 			<Item Name="Andalucia Television">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Andalucia TV">
+			<Item Name="Andalucía TV">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Andalucia TV.png</File>
@@ -1677,6 +1689,12 @@
 			<File>La Xarxa.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="LaLiga 123 TV 4K">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>LaLiga 123 TV 4K.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="LaLiga 123 TV Multi 1">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2689,12 +2707,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Onda Mezquita TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Ondaluz">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Ondaluz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Paramount">
