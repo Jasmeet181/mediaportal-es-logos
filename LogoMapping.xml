@@ -949,15 +949,6 @@
 			<File>Cubavision Internacional.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Castilla y Leon 7">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="CyL7">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>CyL7.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CyLTV">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -1642,10 +1633,19 @@
 			<File>La 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="La 8 CyL">
+			<Item Name="Castilla y Leon 7">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="La 7">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>La 8 CyL.png</File>
+			<File>La 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>La 8.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="La Ocho Mediterraneo">
@@ -2016,6 +2016,9 @@
 			<Item Name="M. Deportes 1 HD">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
+			<Item Name="M.Deportes1HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Movistar Deportes 1">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2080,6 +2083,15 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Deportes 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M.Deportes8">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Deportes 8">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Deportes 8.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Movistar Disney Pixar">
