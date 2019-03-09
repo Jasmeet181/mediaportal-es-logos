@@ -2301,6 +2301,12 @@
 			<File>Movistar Liga de Campeones 8.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Movistar Liga de Campeones UHD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Liga de Campeones UHD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M.LCampeons">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
