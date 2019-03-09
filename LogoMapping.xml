@@ -2085,15 +2085,6 @@
 			<File>Movistar Deportes 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M.Deportes8">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Movistar Deportes 8">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Deportes 8.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Movistar Disney Pixar">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2189,6 +2180,24 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Futbol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Fútbol 1">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Fútbol 1">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Futbol 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="M. Fútbol 2">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Fútbol 2">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar Futbol 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="M. Golf">
@@ -2462,16 +2471,6 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>MTV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Multifut. 1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Multifutbol 1">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Multifutbol 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Multideporte">
