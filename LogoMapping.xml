@@ -664,6 +664,12 @@
 			<File>Canal Hollywood.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal Luz">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Canal Luz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canal Orbe 21">
 				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
