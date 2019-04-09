@@ -51,11 +51,11 @@
 			<File>7 Television Region de Murcia HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="7 Region de Murcia">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
 			<Item Name="7 Television Region de Murcia">
 				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Region de Murcia">
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>7 Television Region de Murcia.png</File>
 		</Channel>
@@ -88,6 +88,9 @@
 		<Channel>
 			<Item Name="À Punt">
 				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="A Punt">
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>A Punt.png</File>
 		</Channel>
@@ -367,6 +370,9 @@
 			<File>Be Mad TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein LaLiga 4K DRM">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="Bein Sports LaLiga 4K">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -457,9 +463,6 @@
 			<File>Bein Sports LaLiga Max 8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein La Liga">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
 			<Item Name="Bein LaLiga">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
@@ -499,6 +502,7 @@
 			<Item Name="Blaze">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Blaze.png</File>
 		</Channel>
@@ -1083,6 +1087,9 @@
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
+			<Item Name="Discovery Max">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<File>DMAX.png</File>
 		</Channel>
 		<Channel>
@@ -1285,37 +1292,37 @@
 			<Item Name="Multi 1 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 1 HD F1 ">
+			<Item Name="Multi 1 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multi 2 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 2 HD F1 ">
+			<Item Name="Multi 2 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multi 3 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 3 HD F1 ">
+			<Item Name="Multi 3 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multi 4 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 4 HD F1 ">
+			<Item Name="Multi 4 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multi 5 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 5 HD F1 ">
+			<Item Name="Multi 5 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multi 6 F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="Multi 6 HD F1 ">
+			<Item Name="Multi 6 HD F1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Multicamara 1 F1">
@@ -1656,8 +1663,6 @@
 		<Channel>
 			<Item Name="La Ocho Mediterraneo">
 				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<Item Name="TV Mediterraneo">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>La Ocho Mediterraneo.png</File>
@@ -1688,9 +1693,6 @@
 		<Channel>
 			<Item Name="La Xarxa">
 				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<Item Name="Xarxa Televisions">
-				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>La Xarxa.png</File>
 		</Channel>
@@ -1742,6 +1744,7 @@
 		<Channel>
 			<Item Name="LaLiga 123 TV">
 				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar">
 				<Provider>Movistar+ IPTV</Provider>
@@ -1750,24 +1753,6 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar 2">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 3">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 4">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 5">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 6">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 7">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga TV Bar 8">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar HD">
@@ -1975,6 +1960,7 @@
 		<Channel>
 			<Item Name="M.CineDoc&amp;Roll">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M.CineDoc&amp;Roll HD">
 				<Provider>Astra 19.2E</Provider>
@@ -2013,14 +1999,14 @@
 			<File>Movistar Deportes.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. Deportes1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="M. Deportes 1">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M. Deportes 1 HD">
 				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="M. Deportes1">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="M.Deportes1HD">
 				<Provider>Astra 19.2E</Provider>
@@ -2031,14 +2017,14 @@
 			<File>Movistar Deportes 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="M. Deportes2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<Item Name="M. Deportes 2">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M. Deportes 2 HD">
 				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="M. Deportes2">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="Movistar Deportes 2">
 				<Provider>Full Name (ES)</Provider>
@@ -2046,6 +2032,9 @@
 			<File>Movistar Deportes 2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Deportes 3">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M. Deportes3">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2055,6 +2044,9 @@
 			<File>Movistar Deportes 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Deportes 4">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M. Deportes4">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2064,6 +2056,9 @@
 			<File>Movistar Deportes 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Deportes 5">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M. Deportes5">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2073,6 +2068,9 @@
 			<File>Movistar Deportes 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Deportes 6">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M. Deportes6">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2082,6 +2080,9 @@
 			<File>Movistar Deportes 6.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Deportes 7">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M. Deportes7">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2105,6 +2106,7 @@
 		<Channel>
 			<Item Name="M. Disney">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Movistar Disney">
 				<Provider>Full Name (ES)</Provider>
@@ -2114,6 +2116,7 @@
 		<Channel>
 			<Item Name="M. Drama">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M. Drama HD">
 				<Provider>Astra 19.2E</Provider>
@@ -2140,6 +2143,9 @@
 			<File>Movistar Estrenos.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. F1 UHD DRM">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="Movistar Formula 1 UHD">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2147,9 +2153,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="M. F1">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M. F1 ">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M. F1 HD">
@@ -2235,6 +2238,9 @@
 			<File>Movistar James Bond.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 1">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon1">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2244,6 +2250,9 @@
 			<File>Movistar Liga de Campeones 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 2">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon2">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2253,6 +2262,9 @@
 			<File>Movistar Liga de Campeones 2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 3">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon3">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2262,6 +2274,9 @@
 			<File>Movistar Liga de Campeones 3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 4">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon4">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2271,6 +2286,9 @@
 			<File>Movistar Liga de Campeones 4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 5">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon5">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2280,6 +2298,9 @@
 			<File>Movistar Liga de Campeones 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 6">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon6">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2289,6 +2310,9 @@
 			<File>Movistar Liga de Campeones 6.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 7">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon7">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2298,6 +2322,9 @@
 			<File>Movistar Liga de Campeones 7.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones 8">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeon8">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2313,6 +2340,9 @@
 			<File>Movistar Liga de Campeones UHD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Liga de Campeones">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.LCampeons">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2359,6 +2389,9 @@
 			<File>Movistar Multifutbol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Navidad Disney">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="M.NavidadDisney">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
@@ -2374,6 +2407,12 @@
 			<File>Movistar Oscars.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. Partidazo UHD">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="M. Partidazo UHD DRM">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
 			<Item Name="Movistar Partidazo UHD">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -2416,10 +2455,7 @@
 			<Item Name="Movistar Plus">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="Movistar+">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Movistar+ HD">
+			<Item Name="Movistar +">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Portada">
@@ -2433,6 +2469,7 @@
 		<Channel>
 			<Item Name="M. Seriesmania">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="M.Seriesmania HD">
 				<Provider>Astra 19.2E</Provider>
@@ -2559,6 +2596,9 @@
 		<Channel>
 			<Item Name="Multifutbol">
 				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Multifutbol 1">
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Multifutbol.png</File>
 		</Channel>
@@ -2745,11 +2785,9 @@
 			<Item Name="Paramount">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Paramount Channel">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
 			<Item Name="Paramount Network">
 				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
@@ -2922,13 +2960,13 @@
 		<Channel>
 			<Item Name="Classica">
 				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Classica HD">
-				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="Stingray Classica">
 				<Provider>Full Name (ES)</Provider>
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="Stingray Classica HD">
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Stingray Classica.png</File>
 		</Channel>
@@ -3321,6 +3359,7 @@
 		<Channel>
 			<Item Name="#Vamos">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="#VamosHD">
 				<Provider>Astra 19.2E</Provider>
