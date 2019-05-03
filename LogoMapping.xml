@@ -3344,6 +3344,12 @@
 			<File>TVE Internacional.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="UBeat">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>UBeat.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="V Television">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
