@@ -1076,12 +1076,6 @@
 			<File>DKiss.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DMAX HD">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>DMAX HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="DMAX">
 				<Provider>Full Name (ES)</Provider>
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
