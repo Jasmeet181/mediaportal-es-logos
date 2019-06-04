@@ -133,42 +133,86 @@
 		<Channel>
 			<Item Name="Alq XXHard">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alq XXHard.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="Alquiler 2">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<File>Alquiler.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler 2 HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Alquiler 2">
+				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Alquiler 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler 3">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler 3.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler 4">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler 4.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler 5">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler 5.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler 6">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler 6.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler HD">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler X">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler X.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler XX">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<File>Alquiler XX.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Alquiler XY">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>Alquiler.png</File>
+			<File>Alquiler XY.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="AMC HD">
@@ -529,10 +573,10 @@
 			<File>Boing.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bom">
+			<Item Name="Bom Cine">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>Bom.png</File>
+			<File>Bom Cine.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Boomerang">
@@ -1280,6 +1324,12 @@
 			<File>Fama A Bailar.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Fight Time">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Fight Time.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Formula 1">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
@@ -1727,13 +1777,37 @@
 			<Item Name="LaLiga 123 TV Multi 4">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<Item Name="LaLiga123TVM3">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>LaLiga 123 TV Multi 4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="LaLiga 123 TV Multi 5">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
+			<Item Name="LaLiga123TVM5">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<File>LaLiga 123 TV Multi 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga 123 TV Multi 6">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="LaLiga123TVM6">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga 123 TV Multi 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLiga 123 TV Multi 7">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="LaLiga123TVM7">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>LaLiga 123 TV Multi 7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="LaLiga 123 TV">
