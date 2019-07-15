@@ -2568,11 +2568,14 @@
 			<File>Movistar Star Wars.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Movistar Wimbledon">
-				<Provider>Full Name (ES)</Provider>
+			<Item Name="M. Wimbledon">
+				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="M.WimbledonHD">
 				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar Wimbledon">
+				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Wimbledon.png</File>
 		</Channel>
