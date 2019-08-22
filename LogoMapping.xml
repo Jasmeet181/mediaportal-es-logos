@@ -414,19 +414,6 @@
 			<File>Be Mad TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein LaLiga">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein LaLiga HD">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Bein Sports LaLiga">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Bein Sports LaLiga.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Beteve">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -1081,6 +1068,12 @@
 			<File>El Punt Avui.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="El Toro TV">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>El Toro TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Energy">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Full Name (ES)</Provider>
@@ -1557,13 +1550,6 @@
 			<File>Intercomarcal TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Intereconomia TV">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Intereconomia TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="La 1 HD">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Full Name (ES)</Provider>
@@ -1698,16 +1684,12 @@
 		<Channel>
 			<Item Name="LaLiga 123 TV">
 				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="LaLiga TV Bar HD">
 				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="LaLiga123TV">
-				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<Item Name="LaLigaTV Bar">
 				<Provider>Astra 19.2E</Provider>
