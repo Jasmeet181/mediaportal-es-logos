@@ -1628,9 +1628,6 @@
 				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="LTC">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
 			<File>La Tienda en Casa.png</File>
 		</Channel>
 		<Channel>
