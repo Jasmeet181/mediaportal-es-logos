@@ -939,20 +939,22 @@
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Channel HD">
-				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<File>Discovery Channel HD.png</File>
+			<Item Name="Discovery HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery">
 				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<Item Name="Discovery Channel">
-				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<File>Discovery Channel.png</File>
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Ch HD">
