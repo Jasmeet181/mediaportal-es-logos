@@ -2137,6 +2137,15 @@
 			<File>Movistar LaLiga 10.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="M. LaLiga 11">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Movistar LaLiga 11">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Movistar LaLiga 11.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="M. LaLiga 1 HD">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
