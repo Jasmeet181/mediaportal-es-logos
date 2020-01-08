@@ -1326,15 +1326,6 @@
 			<File>Fox.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="France 24 - Arabic">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<Item Name="France 24 (in Arabic)">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<File>France 24 - Arabic.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="France 24">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -2753,11 +2744,13 @@
 			<File>Nova.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nuestra Tele">
+			<Item Name="Nuestra Tele Internacional">
 				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Nuestra Tele">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<File>Nuestra Tele.png</File>
+			<File>Nuestra Tele Internacional.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Odisea HD">
@@ -3033,7 +3026,7 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<Item Name="TBN Espana">
-				<Provider>Astra 19.2E</Provider>
+				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>TBN Espana.png</File>
 		</Channel>
