@@ -3159,6 +3159,15 @@
 			<File>Television de Galicia 2.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Galicia TV HD">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<Item Name="Television de Galicia HD">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<File>Television de Galicia HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Galicia TV Europa">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
@@ -3804,6 +3813,24 @@
 				<Provider>Astra 19.2E</Provider>
 			</Item>
 			<File>Radio Exterior de Espana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Galega Música">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio Gallega Musica">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Galega Musica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Galega">
+				<Provider>Full Name (ES)</Provider>
+			</Item>
+			<Item Name="Radio Gallega">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>Radio Galega.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Radio Granollers">
