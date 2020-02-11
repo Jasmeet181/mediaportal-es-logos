@@ -1531,10 +1531,10 @@
 			<Item Name="Insight TV UHD Spain">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
-			<Item Name="Insight UHD">
+			<Item Name="Insight TV UHD">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<File>Insight UHD.png</File>
+			<File>Insight TV UHD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Intercomarcal TV">
