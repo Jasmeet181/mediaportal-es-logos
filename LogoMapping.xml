@@ -18,7 +18,6 @@
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
 			<Item Name="Canal 24 Horas">
-				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>24 Horas.png</File>
@@ -3177,9 +3176,7 @@
 			<Item Name="TV Galicia">
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
-			<Item Name="TVGA">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="TVGA" />
 			<File>Television de Galicia.png</File>
 		</Channel>
 		<Channel>
@@ -3347,9 +3344,7 @@
 			<Item Name="TVE Internacional">
 				<Provider>Full Name (ES)</Provider>
 			</Item>
-			<Item Name="TVE Internacional Europa">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="TVE Internacional Europa" />
 			<File>TVE Internacional.png</File>
 		</Channel>
 		<Channel>
