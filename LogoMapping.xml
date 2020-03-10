@@ -793,7 +793,7 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<Item Name="CNBC Europe">
-				<Provider>Astra 19.2E</Provider>">
+				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>CNBC.png</File>
@@ -3715,9 +3715,7 @@
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
-			<Item Name="RNE Radio 3">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 3" />
 			<File>Radio 3.png</File>
 		</Channel>
 		<Channel>
@@ -3727,9 +3725,7 @@
 			<Item Name="Ràdio 4 RNE">
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 			</Item>
-			<Item Name="RNE Radio 4">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 4" />
 			<File>Radio 4.png</File>
 		</Channel>
 		<Channel>
@@ -3745,9 +3741,7 @@
 			<Item Name="Radio 5 RNE Las Palmas">
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
-			<Item Name="RNE Radio 5 Todo Noticias">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 5 Todo Noticias" />
 			<File>Radio 5.png</File>
 		</Channel>
 		<Channel>
@@ -3777,9 +3771,7 @@
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
 			</Item>
-			<Item Name="RNE Radio Clasica">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio Clasica" />
 			<File>Radio Clasica.png</File>
 		</Channel>
 		<Channel>
@@ -3807,6 +3799,7 @@
 			<Item Name="RNE Exterior de España">
 				<Provider>Astra 19.2E</Provider>
 			</Item>
+			<Item Name="RNE Radio Exterior de España" />
 			<File>Radio Exterior de Espana.png</File>
 		</Channel>
 		<Channel>
@@ -3908,9 +3901,7 @@
 			<Item Name="RNE Cataluña">
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 			</Item>
-			<Item Name="RNE Radio 1">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
+			<Item Name="RNE Radio 1" />
 			<File>Radio Nacional de Espana.png</File>
 		</Channel>
 		<Channel>
