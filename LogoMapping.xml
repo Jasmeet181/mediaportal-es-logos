@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 31/03/2020 Movistar Disney closes -->
 	<TV>
 		<Channel>
 			<Item Name="12TV">
@@ -1000,6 +1001,12 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Disney XD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney+">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
+			<File>DisneyPlus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Divinity">
