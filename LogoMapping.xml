@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 31/03/2020 Movistar Disney closes -->
 	<TV>
 		<Channel>
 			<Item Name="12TV">
@@ -993,14 +992,6 @@
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Disney Junior.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Disney XD">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<File>Disney XD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney+">
@@ -2015,28 +2006,6 @@
 			<File>Movistar Deportes 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Movistar Disney Pixar">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Disney Pixar.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Movistar Disney Princess">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Disney Princess.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="M. Disney">
-				<Provider>Astra 19.2E</Provider>
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="Movistar Disney">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Disney.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="M. Drama">
 				<Provider>Astra 19.2E</Provider>
 				<Provider>Movistar+ IPTV</Provider>
@@ -2394,18 +2363,6 @@
 				<Provider>Full Name (ES)</Provider>
 			</Item>
 			<File>Movistar Multifutbol.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="M. Navidad Disney">
-				<Provider>Movistar+ IPTV</Provider>
-			</Item>
-			<Item Name="M.NavidadDisney">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Movistar Navidad Disney">
-				<Provider>Full Name (ES)</Provider>
-			</Item>
-			<File>Movistar Navidad Disney.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Movistar Oscars">
