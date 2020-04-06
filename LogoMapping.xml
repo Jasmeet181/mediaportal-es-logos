@@ -2802,23 +2802,19 @@
 			<File>Radio Television Vida.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="R. Madrid TV">
+				<Provider>Astra 19.2E</Provider>
+			</Item>
 			<Item Name="Real Madrid TV HD">
+				<Provider>Movistar+ IPTV</Provider>
+			</Item>
+			<Item Name="Real Madrid TV">
 				<Provider>Full Name (ES)</Provider>
 				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<Item Name="RealMadrid TV HD">
 				<Provider>TDT (Catalunya, Barcelona)</Provider>
 				<Provider>TDT (Gran Canaria, Lanzarote)</Provider>
-			</Item>
-			<File>Real Madrid TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="R. Madrid TV">
-				<Provider>Astra 19.2E</Provider>
-			</Item>
-			<Item Name="Real Madrid TV">
-				<Provider>Full Name (ES)</Provider>
-				<Provider>Movistar+ IPTV</Provider>
 			</Item>
 			<File>Real Madrid TV.png</File>
 		</Channel>
